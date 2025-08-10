@@ -9,8 +9,13 @@
 </h4>
 
 ## :hammer:Funcionalidades del proyecto
-- `Funcionalidad 1`: Manipulación del DOM.- `Funcionalidad 2`: Manejo de eventos, Detectar y responder a acciones del usuario, como clics, movimientos del ratón, o pulsaciones de teclas.- `Funcionalidad 3`: Validación de formularios.- `Funcionalidad 4`: Enviar y recibir datos sin necesidad de recargar la página.
+- `Funcionalidad 1`: Manipulación del DOM.
+- `Funcionalidad 2`: Manejo de eventos, Detectar y responder a acciones del usuario, como clics, movimientos del ratón, o pulsaciones de teclas.
+- `Funcionalidad 3`: Validación de formularios.
+- `Funcionalidad 4`: Enviar y recibir datos sin necesidad de recargar la página.
 
 ## Autores
-| <sub>Rosario De Nicola</sub>](https://github.com/rosariodenicola) 
-| :---: | :---: | :---: |
+<sub>Rosario De Nicola</sub> 
+(https://github.com/rosariodenicola) 
+
+-----<3-----
